@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/casa/static/css/main.09df06dc.css",
-    "main.js": "/casa/static/js/main.b0632219.js",
+    "main.js": "/casa/static/js/main.c64fa9f9.js",
     "static/js/787.f1389286.chunk.js": "/casa/static/js/787.f1389286.chunk.js",
     "static/media/landing-page-vector.png": "/casa/static/media/landing-page-vector.15eeefec22d13deb8203.png",
     "static/media/client-person1.png": "/casa/static/media/client-person1.22eed59449eace08abdb.png",
@@ -52,11 +52,11 @@
     "static/media/Arrow.svg": "/casa/static/media/Arrow.3e6d5a9c59f1dc6c2a10bb0027fcae51.svg",
     "static/media/white-arrow.svg": "/casa/static/media/white-arrow.bd75dad8766dd909961027e1355f4bc6.svg",
     "main.09df06dc.css.map": "/casa/static/css/main.09df06dc.css.map",
-    "main.b0632219.js.map": "/casa/static/js/main.b0632219.js.map",
+    "main.c64fa9f9.js.map": "/casa/static/js/main.c64fa9f9.js.map",
     "787.f1389286.chunk.js.map": "/casa/static/js/787.f1389286.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09df06dc.css",
-    "static/js/main.b0632219.js"
+    "static/js/main.c64fa9f9.js"
   ]
 }
